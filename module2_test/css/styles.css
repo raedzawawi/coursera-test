@@ -34,8 +34,8 @@ div.grid-cards{
 
 .menu-title {
   position: absolute;
-  top: -1px;
-  right: -1px;
+  top: -2px;
+  right: -2px;
   width: 100px;
   border: 2px solid;
   text-align: center;
