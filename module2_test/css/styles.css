@@ -94,7 +94,12 @@ h1 {
   margin-bottom: 20px;
   border: 2px solid black;
   background-color: #eee;
-  height: 150px;
+  min-height: 150px;
+}
+
+body > div {
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .menu-description {
