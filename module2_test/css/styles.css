@@ -84,6 +84,7 @@ h1 {
   border-left: 2px solid;
   border-bottom: 2px solid;
   text-align: center;
+  font-size: 1.25em;
 }
 
 .menu-box {
@@ -105,4 +106,8 @@ body > div {
 
 body {
   font-family: Helevetica, sans-serif;
+}
+
+h1 {
+  font-size: 1.75em;
 }
