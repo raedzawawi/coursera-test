@@ -102,3 +102,7 @@ body > div {
 .menu-description {
   margin-top: 30px;
 }
+
+body {
+  font-family: Helevetica, sans-serif;
+}
